@@ -1,1 +1,22 @@
-<!
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+
+<h1> Readimg Notes</h1>
+
+<p> This is a webiste that is for my readings for Code Fellows. <br> You can find all of my classes here and in order from start to finsh.</p>
+
+<h2> Table of Contents</h2>
+
+<ol>
+
+<li> Code 102 </li>
+<li> Code 201 </li>
+<li> Code 301 </li>
+<li> Code 401 </li>
+
+</ol>
+
+</body>
+</html> 
