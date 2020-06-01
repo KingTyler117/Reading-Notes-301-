@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 2</title>
+</head>
+<body>
+
+<h1> Reading 2 Takeways </h1>
+
+<ol>
+
+<li> JQuery is a JavaScript file that allows the user access to elements through the CSS style selectors.</li>
+<li> JQuery is used as a function which is a object. </li>
+<li> It is normally linked at the the bottom of a page.</li>
+<li> JQuery can store objects in variables also like JavaScript.</li>
+<li> JQuery is great for making JavaScript for accessible to help understand tasks much more easier. </li>
+</ol>
+
+<h2> Pair Programming takeways</h2>
+
+<ol>
+
+<li> Helps to give another set of eyes on code.</li>
+<li> Helps to give people a chance to bounce ideas off from one another.</li>
+<li> Greater efficiency for getting a task done. </li>
+<li> Helps people communicate better than solo work.</li>
+<li> Companies will use pair programing to help people knockout projects together.</li>
+</ol>
+
+</body>
+</html>
