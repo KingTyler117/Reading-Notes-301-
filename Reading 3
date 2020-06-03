@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 2</title>
+</head>
+<body>
+
+<h1> Templating Takeways </h1>
+
+<ol>
+
+<li> JavaScript tempalting is a tempalte made with HTML markup.</li>
+<li> The musrache is a way of expanding tags in any template using cerain vaules. </li>
+<li> They are often referd to as logic less.</li>
+<li> It is not a templating language..</li>
+<li> Is very much used in the industry today. </li>
+</ol>
+
+<h2> Flexbox takeways</h2>
+
+<ol>
+
+<li> Flexbox is a way to to lay out, algin and distribute space inside of a container.</li>
+<li> Can alter a container items to be able to fill in the space around it.</li>
+<li> You can apply it to vertical and horizontal layout alignments. </li>
+<li> Main axis is the main axis of a conainter where flex items are laid out on.</li>
+<li> Main size is the flexs item width or heigth.</li>
+<li> Cross axis is the axis that is perpendicular from the main one. 
+</ol>
+
+</body>
+</html>
