@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 2</title>
+</head>
+<body>
+
+<h1> Reading 5 take aways </h1>
+
+<h2> Heroku Deployment </h2>
+
+<ol>
+
+<li>. Deploying  Node.js app to Heroku is very easy. </li>
+<li> First, you have to get git installed. Next, you set git up.</li>
+<li>  In your termainal, type in $ brew install heroku/brew/heroku</li>
+<li>  Once you get past this type, you must login and have a Heroku account to be able to go further. </li>
+<li> Once you get this far there you can git clone on your line and be able to create a repo. </li>
+</ol>
+
+<h2> Blog to Heroku</h2>
+
+<ol>
+
+<li> Node.js is a open scourse site that lets youb uild server-side and networking applications very easily.</li>
+<li> This can run on anywhre on the internet.</li>
+<li> It is very common for people in the industry to use this to build sites. </li>
+</ol>
+
+</body>
+</html>
