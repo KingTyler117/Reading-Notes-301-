@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 4</title>
+</head>
+<body>
+
+<h1> CSS Grid Layout</h1>
+
+ <p> This was really intresting playing around with. I was able to learn alt of useful things I can use for the futrue for my CSS projects.
+ I found it really intreesting how helpful this site was. All of these tools are very powerful for CSS. 
+ This has helped me to realize that even just a little bit of CSS on a site can make any old boring webpage a more'
+ intresting one.
+
+
+<h2> Regular Expressions</h2>
+
+<p> RegExr was created by gskinner.com. They are normally used for extracting information from any text. You can search for  matches of a specific search pattern.
+This is another pretty powerful tool that can help to get things done. I found the guide for this to be very helpful for trying to get
+a basic level knowledge of the subject. I am looking forward to getting a hang of it in the futrue. Some expamples of it are
+
+. any character except newline
+
+\w\d\s word, digit, whitespace
+
+<p> For this code, it is a Quantifiers & Alternation. One example of this is a+?a{2,}?. This means it will match as few as possible
+
+
+
+
+</body>
+</html>
