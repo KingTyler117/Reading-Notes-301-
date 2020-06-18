@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 2</title>
+</head>
+<body>
+
+<h1> Reading 6 take aways </h1>
+
+<h2> Node.Js takeways </h2>
+
+<ol>
+
+<li> Node will aloow the user to run JS on thier computer so they can have acesses to run a server. </li>
+<li> It is a very powerful way to run a server and to see the instant results.</li>
+<li>  Node.Js is event based. It is also asynchronous when it runs.</li>
+<li>  Since it is event based, everything that happens in Node is a event. </li>
+<li> Node.Js is really good for building out APIs and other various sites. </li>
+<li> Node.Js lets you use any lanuage in the backend. this helps to speed things out on the devopler side.</li>
+<li> You can write Node.Js in your command line.</li>
+
+</ol>
+
+</body>
+</html>
