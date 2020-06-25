@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 8</title>
+</head>
+<body>
+
+<h1> Reading 8 take aways </h1>
+
+<h2> SQL takeways </h2>
+
+<ol>
+
+<li> SQL is a language that can let people be able to use query fromm a database fairly easy. </li>
+<li>  It is one of the most common ways people use to help protect data from people.</li>
+<li> There are many types of SQL out in the world. Some examples are MYSQL,SQLite and Oracle. There are hundreds of thounadns avabile</li>
+<li>  Relational databases are a collcetion of 2 dimensional tables. </li>
+<li> It looks like a spreadsheet, there are set numver of columsn and rows. </li>
+<li> It is used to oenazied data so it is easy to get when needed. </li>
+
+
+</ol>
+
+
+
+</body>
+</html>
