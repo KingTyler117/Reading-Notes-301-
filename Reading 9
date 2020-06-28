@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 9</title>
+</head>
+<body>
+
+<h1> Reading 9 take aways </h1>
+
+<h2> Refactoring takeways </h2>
+
+<ol>
+
+<li> Refactoring is a big part of coding. </li>
+<li>  Refactoring is the process of making your code easier and simpler to read and to run.</li>
+<li> It is very imporant to do this before any final pushes. Most business dont want to spend the moeny to go back and refactor already done code.
+<li> Pure Function will guve you the same result if arguments dose not casue obserable effects.
+<li> One function that can help with refactor is the hash function.</li>
+<li>  Hash function is a way to map a key to the hash table. </li>
+
+
+
+</ol>
+
+
+
+</body>
+</html>
