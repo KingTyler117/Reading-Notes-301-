@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 10</title>
+</head>
+<body>
+
+<h1> Reading 10 take aways </h1>
+
+<h2> The Call Stack and Javascript De bugging </h2>
+
+<ol>
+
+<li> The call stack is a way for JS to keep track what is going on in a file. </li>
+<li> It calls things in a stack. Normally fires code off from top to bottom.</li>
+<li> The call stack is used noramlly for a function call.</li>
+<li> The call stack also oprteates ina method called last in, first out.</li>
+<li> Last in, first out in a simple terms is when the last fucntion that is at the end of the stack is the first one to be pushed out </li>
+<li> A good chunck of your time as a developer you will be trying to fix what is going wrong with your code.</li>
+<li> Good way to figure out why your code isnt working is to check out the devopler tools to see where at it is having issues.</li>
+<li> There are many diffrent types of error messages</li>
+<li> One of the more simpler error messages is the reference errors. example would be using var instead of let when you have used let a bunch of times</li>
+
+
+</ol>
+
+
+
+</body>
+</html>
