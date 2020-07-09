@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 11</title>
+</head>
+<body>
+
+<h1> Reading 11 take aways </h1>
+
+<h2> EJS takeways </h2>
+
+<ol>
+
+<li> EJS is a easy to be able to do Javascirpit tempalting. </li>
+<li>  In order to be able to use it, you must first install EJS with by typing this in your command line npm install ejs.</li>
+<li> You can use EJS and express togther.</li>
+<li> Some of the imporaant tags to know are <% is the Siptlet which means for control flow and no out put.</li>
+<li> Another tag to know is the <%_/ This is called the Whitespace Slurping tag. This tag allows you to get rid of all of the white space that has come before it.</li>
+<li> The <%% tag will literal send out a <%. </li>
+
+
+
+</ol>
+
+
+
+</body>
+</html>
