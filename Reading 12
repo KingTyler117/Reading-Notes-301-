@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 12</title>
+</head>
+<body>
+
+<h1> Reading 12 take aways </h1>
+
+<h2> Components </h2>
+
+<ol>
+
+<li> Partials is a great way to be able to re use HTML all over many diffrent views. </li>
+<li> If there is a featrue that you want to use over and over again like a Nav bar you can do that with partials.</li>
+<li> Partials is very commonly used in the industry.</li>
+<li>  Partilas belong in the EJS folder.</li>
+<li> The syntax for partilas is <% file name %> </li> 
+
+</ol>
+
+
+
+</body>
+</html>
