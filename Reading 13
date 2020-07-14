@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 12</title>
+</head>
+<body>
+
+<h1> Reading 13 take aways </h1>
+
+<h2> Updating and Deleting </h2>
+
+<p> The most basic way to describe it is as follows, 
+web uses a client/server architecture that can be summarized as follows. a client (usually a web browser) 
+sends a request to a server (most of the time a web server like Apache, Nginx, IIS, Tomcat, etc.), 
+using the HTTP protocol. The server answers the request using the same protocol. what is on a HTML page is a easy way to be able to
+to send HTTP data to the server.  The form elment will define what type of data will be sent.The action attribute
+will tell the data where it needs to go. Las thing to know is that the method attrtibute will define how the data will
+be sent.</p>
+
+
+</body>
+</html>
