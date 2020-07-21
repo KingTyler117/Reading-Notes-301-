@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reading 12</title>
+</head>
+<body>
+
+<h1> Reading 14 take aways </h1>
+
+<h2>  Normalization </h2>
+
+<p> Database normaliztion is a way to orangize any database into tables and cloums. The main goal for is to be able to keep information oraznied in a quick
+and easy way. This is the most common way to be able to do this for a database. There are 3 main ways to be able to normalize any database. Those three ways are 
+duplicate data, minimize or avoid data modification issues  and the last one is to simplify queries. All three are very imporant for having a sucessful and running database. 
+When running a database, you want to be able to interpt the data very quilcky to aviod costing you and your cleint time and monety down the road. Database  Normalization 
+ allows you to be as effecitve as possbile.</p>
+
+
+</body>
+</html>
